@@ -1,1 +1,42 @@
-The university of lahore 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-12">
+    <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <meta name="viewport" Content="width=device-width, initial-scale=1.0">
+    <title>UOL</title>
+    <link rel="stylesheet"href="css/all.css">
+</head>
+<body>
+    <div>
+    <h1>The university of lahore</h1><br>
+    <hr>
+    <h2>Department of technology</h2>
+    <h2>Machine Learning operations</h2>
+    <h3>Embedded Lab</h3>
+    <p>Shamsher</p>
+    </div>
+    <div>
+    <a href="mailto:jawadbaloch136@gmail.com">jawadbaloch136@gmail.com</a><br>
+    </div>
+    <div>
+    <table style="width:100%">
+    <tr>
+    <th>Experience</th>
+    <th>Education</th>
+    <th>year of joining</th>
+    </tr>
+    <tr>
+    <td>university</td>
+    <td>position Title</td>
+    <td>Year</td>
+    <td>UOL</td>
+    <td>Student</td>
+    <td>2023</td>
+    </tr>
+    </Table>
+    </div>
+    </body>
+    </html><
+    
+        
