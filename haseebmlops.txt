@@ -17,7 +17,7 @@
     <p>Shamsher</p>
     </div>
     <div>
-    <a href="mailto:jawadbaloch136@gmail.com">jawadbaloch136@gmail.com</a><br>
+    <a href="mailto:haseeb556@gmail.com">haseeb556@gmail.com</a><br>
     </div>
     <div>
     <table style="width:100%">
